@@ -88,12 +88,13 @@ button{
     outline: #fff;
     border: 100px;
 
+    font-weight: 500;
     color: -webkit-linear-gradient(rgb(149, 0, 255), rgba(208, 255, 0, 0.194));
 }
 
 button:hover{
     background-color: gray;
-    background: -webkit-linear-gradient(rgb(255, 255, 255), rgba(117, 14, 14, 0.194));
+    background: -webkit-linear-gradient(rgb(62, 62, 62), rgba(117, 14, 14, 0.194));
     cursor:pointer;
     transform: perspective(800px) rotateY(-4deg);
 }
