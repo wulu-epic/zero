@@ -1,0 +1,63 @@
+.mask{
+    background-color: rgba(17, 17, 17, 1000);
+    width:100%;
+    height:100vh;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    height: 10px;
+    transform: translateY(-40px);
+
+}
+.cards{
+    display: flex;
+    margin: 2px auto;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.card1{
+    background: -webkit-linear-gradient(rgb(32, 31, 31), #000);;
+    padding:50px;
+    margin: 50px;
+    
+    height:200px;
+    width:200px;
+
+    border-radius: 9px;
+    transition-duration: 250ms;
+    word-wrap: break-word;
+}
+
+.card1:hover{
+    transform: scale(1.1)
+}
+
+p, h5{
+    font-size: 12px;
+    display: flex;
+    margin: 1rem auto;
+    align-items: center;
+    top:200px;
+    justify-content: center;
+    transform: translateY(-40px);
+    word-wrap: break-word;
+
+}
+
+h5{
+    font-size: 22px;
+}
+
+P{
+    padding :10px;
+    padding-left: 20px;
+    font-weight: 300;
+    text-align: center;
+}
