@@ -6,7 +6,7 @@ import { FaAmazon, FaBtc, FaCheck, FaEthereum, FaIcons, FaPaypal } from "react-i
 const site = "https://gloaccount.sellix.io/product/63616e956436a";
 
 function purchase(a){
-  if (a!="a"){
+  if (a!=="a"){
     window.open("https://gloaccount.sellix.io/product/63616e956436a")
   } else{
     window.open("google.com")
