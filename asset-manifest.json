@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/zero/static/css/main.d23a30bf.css",
-    "main.js": "/zero/static/js/main.90ed657c.js",
-    "static/media/temporary.PNG": "/zero/static/media/temporary.2107c070c3b9b6fc80ff.PNG",
-    "index.html": "/zero/index.html",
-    "main.d23a30bf.css.map": "/zero/static/css/main.d23a30bf.css.map",
-    "main.90ed657c.js.map": "/zero/static/js/main.90ed657c.js.map"
+    "main.css": "/wulu-epic/zero/blob/master/src/index.js/static/css/main.d23a30bf.css",
+    "main.js": "/wulu-epic/zero/blob/master/src/index.js/static/js/main.e9e994e0.js",
+    "static/media/temporary.PNG": "/wulu-epic/zero/blob/master/src/index.js/static/media/temporary.2107c070c3b9b6fc80ff.PNG",
+    "index.html": "/wulu-epic/zero/blob/master/src/index.js/index.html",
+    "main.d23a30bf.css.map": "/wulu-epic/zero/blob/master/src/index.js/static/css/main.d23a30bf.css.map",
+    "main.e9e994e0.js.map": "/wulu-epic/zero/blob/master/src/index.js/static/js/main.e9e994e0.js.map"
   },
   "entrypoints": [
     "static/css/main.d23a30bf.css",
-    "static/js/main.90ed657c.js"
+    "static/js/main.e9e994e0.js"
   ]
 }
