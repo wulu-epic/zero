@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/wulu-epic/zero/blob/master/src/index.js/static/css/main.d23a30bf.css",
-    "main.js": "/wulu-epic/zero/blob/master/src/index.js/static/js/main.e9e994e0.js",
-    "static/media/temporary.PNG": "/wulu-epic/zero/blob/master/src/index.js/static/media/temporary.2107c070c3b9b6fc80ff.PNG",
-    "index.html": "/wulu-epic/zero/blob/master/src/index.js/index.html",
-    "main.d23a30bf.css.map": "/wulu-epic/zero/blob/master/src/index.js/static/css/main.d23a30bf.css.map",
-    "main.e9e994e0.js.map": "/wulu-epic/zero/blob/master/src/index.js/static/js/main.e9e994e0.js.map"
+    "main.css": "/wulu-epic.github.io/zero/static/css/main.d23a30bf.css",
+    "main.js": "/wulu-epic.github.io/zero/static/js/main.8c4a80da.js",
+    "static/media/temporary.PNG": "/wulu-epic.github.io/zero/static/media/temporary.2107c070c3b9b6fc80ff.PNG",
+    "index.html": "/wulu-epic.github.io/zero/index.html",
+    "main.d23a30bf.css.map": "/wulu-epic.github.io/zero/static/css/main.d23a30bf.css.map",
+    "main.8c4a80da.js.map": "/wulu-epic.github.io/zero/static/js/main.8c4a80da.js.map"
   },
   "entrypoints": [
     "static/css/main.d23a30bf.css",
-    "static/js/main.e9e994e0.js"
+    "static/js/main.8c4a80da.js"
   ]
 }
